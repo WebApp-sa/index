@@ -235,3 +235,16 @@ body {
     transition: .3s;
 }
 /* End footer */
+/* Start KeyWorks */
+.Keywords {
+    display: flex;
+    height: 0 !important;
+}
+.key {
+    overflow: hidden;
+    padding: 10px;
+    background-color: #f2f2f2;
+    display: inline-block;
+    border-radius: 15px;
+}
+/* End KeyWorks */
